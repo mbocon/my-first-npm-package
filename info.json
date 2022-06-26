@@ -1,0 +1,21 @@
+{
+    "name": "Mike Bocon",
+    "website": "https://www.mikebocon.com/",
+    "linkedin": "https://www.linkedin.com/in/mike-bocon/",
+    "github": "https://github.com/mbocon",
+    "email": "mikebocon@gmail.com",
+    "resume": "https://docs.google.com/document/d/1W99uZY16WUSXK0OISZ7kOWrRqvBjABfplftirbFdyyU/edit?usp=sharing",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb",
+        "Python",
+        "Django"
+    ],
+    "otherSkills": [
+        "Time management",
+        "Problem solving"
+    ]
+}
